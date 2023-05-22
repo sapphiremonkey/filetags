@@ -1,10 +1,23 @@
 * filetags
 
+Sapphiremonkey:
+
+This project was forked and then "hacked-together" to add some functionality and supplement my file-tagging process.
+
+
+Functionality added:
+  - Tag thousands of files! (previous version had a 8191 character limit afaik)
+  - ... [TBD]
+  
+  
+
 #+BEGIN_HTML
 <a href="https://karl-voit.at/demo-filetags-tagging">
 <img src="https://raw.githubusercontent.com/novoid/screencasts/master/file_management/filetags_tagging.gif" />
 </a>
 #+END_HTML
+
+
 
 [[file:bin/screencast.gif]]
 
